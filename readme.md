@@ -37,12 +37,6 @@ My research is primarily focused on **nonlinear time series econometrics**, theo
 I actively maintain and contribute to projects advancing econometric theory and applied macroeconomics.  
 While I value all my work, I am especially excited about future projects in econometrics and statistical data science.
 
-**Featured repositories:**  
-- [BRI](https://github.com/mehmet-ozcan/BRI)
-- [Shape_of_economic_recovery](https://github.com/mehmet-ozcan/Shape_of_economic_recovery)
-- [Threshold-Unit-Root-Tests-with-Smooth-Transitions](https://github.com/mehmet-ozcan/Threshold-Unit-Root-Tests-with-Smooth-Transitions)
-- [Inflation_Inertia_Non-Eurozone](https://github.com/mehmet-ozcan/Inflation_Inertia_Non-Eurozone)
-
 ---
 
 ## 🌐 Connect with Me
