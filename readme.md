@@ -48,9 +48,9 @@ While I value all my work, I am especially excited about future projects in AI, 
 
 ## ⚡ Fun Facts
 
-- Enthusiast of all kinds of tech products and PC building
+- Enthusiast of all kinds of tech products and PC building 
 - Passionate about fantastic & science fiction
-- Volleyball lover
+- Volleyball lover 🏐
 - Fan of Galatasaray 💛❤️
 
 ---
